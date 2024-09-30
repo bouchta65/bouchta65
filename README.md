@@ -34,4 +34,4 @@ Feel free to reach out if you're interested in learning together or discussing w
 
 - [LinkedIn](https://www.linkedin.com/in/mohamed-bouchta-71082a286/)
 - [Our Team](https://www.maeil.team/)
-- [Email](bouchtamohamed@gmail.com)
+- Email: bouchtamohamed@gmail.com
