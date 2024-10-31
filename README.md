@@ -21,6 +21,10 @@ Hi, I'm Mohamed Bouchta, a 21-year-old student at [YouCode](https://youcode.ma/)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bouchta65&layout=compact&theme=radical)
 
+![Streak Stats](https://streak-stats.demolab.com/?user=bouchta65&theme=radical&hide_border=true)
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=bouchta65&theme=rogue&hide_border=true)
+
 ---
 
 ### 🛠️ **Work Experience**
