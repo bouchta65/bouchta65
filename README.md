@@ -17,7 +17,7 @@ Hi, I'm Mohamed Bouchta, a 21-year-old student at [YouCode](https://youcode.ma/)
 ---
 
 ### 📈 **GitHub Statistics**
-<div style="display: grid; justify-content: space-around; margin: 20px 0;">
+<div style="display: grid;grid-template-columns: repeat(2,fr); justify-content: space-around; margin: 20px 0;">
 
   <div style="margin: 10px; border-radius: 10px; background-color: #2d2d2d; padding: 20px; color: #fff; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);">
     <h3 style="text-align: center;">GitHub Stats</h3>
