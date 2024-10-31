@@ -17,9 +17,9 @@ Hi, I'm Mohamed Bouchta, a 21-year-old student at [YouCode](https://youcode.ma/)
 ---
 
 ### 📈 **GitHub Statistics**
-![GitHub Stats](https://github.com/bouchta65)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bouchta65&show_icons=true&theme=radical)
 
-![Top Languages](https://github.com/bouchta65)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bouchta65&layout=compact&theme=radical)
 
 ---
 
