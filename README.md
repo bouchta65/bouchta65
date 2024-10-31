@@ -1,37 +1,44 @@
 # Welcome to Mohamed Bouchta's GitHub!
 
-Hi, I'm Mohamed Bouchta, a 21-year-old student at YouCode, currently focused on learning C programming. I'm preparing to pass the SAS phase at YouCode, which will mark the beginning of my journey into full-stack web development.
+Hi, I'm Mohamed Bouchta, a 21-year-old student at [YouCode](https://youcode.ma/), currently focused on C programming. I'm preparing to pass the SAS phase at YouCode, marking the beginning of my journey into full-stack web development.
 
 ---
 
-🧠 **Skills & Tools**
+### 🧠 **Skills & Tools**
 
-**Learning & Development:**
-- **C Language**: Building a solid foundation in programming.
-- **Full-Stack Web Development**: Excited to dive into front-end and back-end technologies.
+#### **Learning & Development:**
+- **C Language**: Building a strong foundation in programming.
+- **Full-Stack Web Development**: Preparing to explore both front-end and back-end technologies.
 
-**Other Skills:**
-- **Languages**: C, 
-- **Tools**: Visual Studio Code, Git, PowerBi, 
-
----
-
-🛠️ **Work Experience**
-- **Internships**: Gained hands-on experience with government institutions in Tan-Tan and Laayoune.
-- **Volunteer Work**: Active with the Dar Salam Association in Tan-Tan.
+#### **Other Skills:**
+- **Languages**: C
+- **Tools**: Visual Studio Code, Git, PowerBi
 
 ---
 
-🚀 **Goals**
-- Successfully pass the SAS period at YouCode and move into full-stack web development.
-- Master key web technologies like HTML, CSS, JavaScript, and back-end tools.
-- Collaborate on open-source web development projects.
+### 📈 **GitHub Statistics**
+![GitHub Stats](https://github.com/bouchta65)
+
+![Top Languages](https://github.com/bouchta65)
 
 ---
 
-📫 **Let's Connect!**
-Feel free to reach out if you're interested in learning together or discussing web development and technology.
+### 🛠️ **Work Experience**
+- **Internships**: Hands-on experience with government institutions in Tan-Tan and Laayoune.
+- **Volunteer Work**: Active member of the Dar Salam Association in Tan-Tan.
+
+---
+
+### 🚀 **Goals**
+- Master essential web technologies like HTML, CSS, JavaScript, and key back-end tools.
+- Contribute to open-source web development projects.
+
+---
+
+### 📫 **Let's Connect!**
+I'm open to connecting and learning together about web development and tech.
 
 - [LinkedIn](https://www.linkedin.com/in/mohamed-bouchta-71082a286/)
 - [Our Team](https://www.maeil.team/)
-- Email: bouchtamohamed@gmail.com
+- **Email**: bouchtamohamed@gmail.com
+
