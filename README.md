@@ -17,19 +17,19 @@ Hi, I'm Mohamed Bouchta, a 21-year-old student at [YouCode](https://youcode.ma/)
 ---
 
 ### 📈 **GitHub Statistics**
-<div style="display: flex; justify-content: space-around; margin: 20px 0;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin: 20px 0;">
 
-  <div style="flex: 1; min-width: 80px; margin: 10px; border-radius: 10px; background-color: #2d2d2d; padding: 20px; color: #fff; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);">
+  <div style="flex: 1 1 45%; margin: 10px; border-radius: 10px; background-color: #2d2d2d; padding: 20px; color: #fff; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);">
     <h3 style="text-align: center;">GitHub Stats</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=bouchta65&show_icons=true&theme=radical&hide_title=true&hide_rank=true&hide_border=true&line_height=25&icon_color=ffbb00&title_color=ffbb00" style="width: 100%; border-radius: 8px;"/>
   </div>
 
-  <div style="flex: 1; min-width: 200px; margin: 10px; border-radius: 10px; background-color: #2d2d2d; padding: 20px; color: #fff; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);">
+  <div style="flex: 1 1 45%; margin: 10px; border-radius: 10px; background-color: #2d2d2d; padding: 20px; color: #fff; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);">
     <h3 style="text-align: center;">Top Languages</h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouchta65&layout=compact&theme=radical&hide_border=true" style="width: 100%; border-radius: 8px;"/>
   </div>
 
-  <div style="flex: 1; min-width: 200px; margin: 10px; border-radius: 10px; background-color: #2d2d2d; padding: 20px; color: #fff; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);">
+  <div style="flex: 1 1 100%; margin: 10px; border-radius: 10px; background-color: #2d2d2d; padding: 20px; color: #fff; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);">
     <h3 style="text-align: center;">Contribution Streak</h3>
     <img src="https://streak-stats.demolab.com/?user=bouchta65&theme=radical&hide_border=true" style="width: 100%; border-radius: 8px;"/>
   </div>
