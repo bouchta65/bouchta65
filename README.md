@@ -1,37 +1,25 @@
-# Welcome to Mohamed Bouchta's GitHub!
+<h1 align="center">Hi 👋, I'm Bouchta Mohamed</h1>
+<h3 align="center">A passionate frontend developer from Morroco</h3>
 
-Hi, I'm Mohamed Bouchta, a 21-year-old student at [YouCode](https://youcode.ma/), currently focused on C programming. I'm preparing to pass the SAS phase at YouCode, marking the beginning of my journey into full-stack web development.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bouchta65&label=Profile%20views&color=0e75b6&style=flat" alt="bouchta65" /> </p>
 
----
+- 🌱 I’m currently learning **JavaScript**
 
+- 👨‍💻 All of my projects are available at [https://github.com/bouchta65/bouchta65](https://github.com/bouchta65/bouchta65)
 
+- 📝 I regularly share updates on [https://www.linkedin.com/in/mohamed-bouchta-71082a286/](https://www.linkedin.com/in/mohamed-bouchta-71082a286/)
 
-### 🧠 **Skills & Tools**
+- 💬 Ask me about **YouCode**
 
-#### **Learning & Development:**
-- **C Language**: Building a strong foundation in programming.
-- **Full-Stack Web Development**: Preparing to explore both front-end and back-end technologies.
+- 📫 How to reach me **Bouchtamohamed01@gmail.com**
 
-#### **Other Skills:**
-- **Languages**: C
-- **Tools**: Visual Studio Code, Git, PowerBi
+- ⚡ Fun fact **I’m a huge fan of simple code — the less complex, the better. After all, clean code is happy code! 💻😊**
 
-### 🛠️ **Work Experience**
-- **Internships**: Hands-on experience with government institutions in Tan-Tan and Laayoune.
-- **Volunteer Work**: Active member of the Dar Salam Association in Tan-Tan.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-bouchta-71082a286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-bouchta-71082a286/" height="30" width="40" /></a>
+<a href="https://discord.gg/bouchtamohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bouchtamohamed" height="30" width="40" /></a>
+</p>
 
----
-
-### 🚀 **Goals**
-- Master essential web technologies like HTML, CSS, JavaScript, and key back-end tools.
-- Contribute to open-source web development projects.
-
----
-
-### 📫 **Let's Connect!**
-I'm open to connecting and learning together about web development and tech.
-
-- [LinkedIn](https://www.linkedin.com/in/mohamed-bouchta-71082a286/)
-- [Our Team](https://www.maeil.team/)
-- **Email**: bouchtamohamed@gmail.com
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
