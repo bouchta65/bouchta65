@@ -31,22 +31,7 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-bouchta-71082a286/" target="blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" />
-  </a>
-  <a href="mailto:bouchtamohamed01@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Email-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="50" width="50" />
-  </a>
-  <a href="https://discord.com/users/bouchtamohamed" target="blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Discord" height="50" width="50" />
-  </a>
-</p>
 
-
-
----
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -54,7 +39,7 @@
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" />
   </a>
   <a href="mailto:bouchtamohamed01@gmail.com" target="blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Email.svg" alt="Email" height="50" width="50" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Gmail_Logo_2022.png" alt="Gmail" height="50" width="50" />
   </a>
   <a href="https://discord.com/users/bouchtamohamed" target="blank">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Discord" height="50" width="50" />
