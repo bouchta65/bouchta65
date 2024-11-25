@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/mohamed-bouchta-71082a286/" target="blank">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" />
   </a>
-  <a href="mailto:bouchtamohamed01@gmail.com" target="blank">
+ <a href="mailto:bouchtamohamed01@gmail.com" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Gmail_Logo.svg" alt="Gmail" height="50" width="50" />
   </a>
   <a href="https://discord.com/users/bouchtamohamed" target="blank">
