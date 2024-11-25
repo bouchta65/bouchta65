@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **bouchtamohamed01@gmail.com**
   
-- ⚡ Fun fact ** I’m the game changer💻**
+- ⚡ Fun fact **I’m the game changer💻**
 
 </td>
 <td width="50%" align="center">
