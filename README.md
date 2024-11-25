@@ -39,7 +39,7 @@
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" />
   </a>
   <a href="mailto:bouchtamohamed01@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Gmail_Logo_2022.png" alt="Gmail" height="50" width="50" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Gmail_Logo.svg" alt="Gmail" height="50" width="50" />
   </a>
   <a href="https://discord.com/users/bouchtamohamed" target="blank">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Discord" height="50" width="50" />
