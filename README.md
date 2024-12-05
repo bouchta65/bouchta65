@@ -41,8 +41,11 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=bouchta65&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mohamed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bouchta65&theme=dark&hide_border=false" /> 
-</td>
+<img 
+  title="🔥 Get streak stats for your profile at git.io/streak-stats" 
+  alt="Mohamed's streak" 
+  src="https://streak-stats.demolab.com?user=bouchta65&theme=dark&hide_border=false"
+/></td>
 <td width="50%" align="center">
   <img 
     align="center" 
