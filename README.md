@@ -42,7 +42,7 @@
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=bouchta65&theme=dark&show_icons=true&count_private=true" />
   <br></br>
 <img 
-  src="https://streak-stats.demolab.com/?user=bouchta65&theme=dark&hide_border=false"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bouchta65&theme=github_dark"
 />
 </td>
 <td width="50%" align="center">
