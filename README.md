@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Bouchta Mohamed</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<h3 align="center">AI Developer & Data Analyst | Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=bouchta65&label=Profile%20views&color=0e75b6&style=flat" alt="bouchta65" /> 
 </p>
@@ -13,7 +13,7 @@
   
 - ⚡ I’m a **YouCode** Student 
   
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m specializing in **Artificial Intelligence**, with a focus on **Machine Learning**, **Deep Learning**, **Neural Network architectures**, and **Generative AI** models to create intelligent, innovative, and data-driven solutions.
 
 - 📝 I regularly share updates on [https://www.linkedin.com/in/mohamed-bouchta-71082a286/](https://www.linkedin.com/in/mohamed-bouchta-71082a286/)
 
