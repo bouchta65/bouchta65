@@ -11,7 +11,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- ⚡ I’m a **YouCode** Student 
+- ⚡ I’m a **Ai** Student 
   
 - 🌱 I’m specializing in **Artificial Intelligence**, with a focus on **Machine Learning**, **Deep Learning**, **Neural Network architectures**, and **Generative AI** models to create intelligent, innovative, and data-driven solutions.
 
