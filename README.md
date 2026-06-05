@@ -49,9 +49,11 @@
 <h3 align="center">GitHub Metrics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bouchta65&theme=dark&show_icons=true&count_private=true"/>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bouchta65&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bouchta65&show_icons=true&theme=dark&count_private=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bouchta65&theme=github_dark" />
 </p>
 
 ---
