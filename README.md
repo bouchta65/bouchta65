@@ -1,100 +1,68 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Bouchta Mohamed</h1>
-<h3 align="center">AI Developer & Data Analyst | Passionate IT Student | Exploring the Boundless World of Technology</h3>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=bouchta65&label=Profile%20views&color=0e75b6&style=flat" alt="bouchta65" /> 
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="80px">
 </p>
 
+<h1 align="center">Bouchta Mohamed</h1>
 
+<h3 align="center">
+  AI Engineer • Data Analyst • Systems Thinker
+</h3>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- ⚡ I’m a **Ai** Student 
-  
-- 🌱 I’m specializing in **Artificial Intelligence**, with a focus on **Machine Learning**, **Deep Learning**, **Neural Network architectures**, and **Generative AI** models to create intelligent, innovative, and data-driven solutions.
-
-- 📝 I regularly share updates on [https://www.linkedin.com/in/mohamed-bouchta-71082a286/](https://www.linkedin.com/in/mohamed-bouchta-71082a286/)
-
-- 💬 Ask me about **YouCode**
-
-- 📫 How to reach me **bouchtamohamed01@gmail.com**
-  
-- ⚡ Fun fact **I’m the game changer💻**
-
-</td>
-<td width="50%" align="center">
-
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
-  
-  </td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bouchta65&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
 <table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=bouchta65&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bouchta65&theme=github_dark"
-/>
+<tr>
+<td width="55%" align="left">
+
+- Focus: Artificial Intelligence & Intelligent Systems  
+- Specialization: Machine Learning • Deep Learning • Neural Architectures • Generative AI  
+- Philosophy: Build systems that learn, adapt, and scale beyond intuition  
+- Currently exploring: advanced model design, optimization, and real-world AI deployment  
+- Contact: **bouchtamohamed01@gmail.com**  
+- LinkedIn: https://www.linkedin.com/in/mohamed-bouchta-71082a286/  
+- Signal: I prefer building over talking  
+
 </td>
-<td width="50%" align="center">
-  <img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouchta65&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" 
-    alt="Top Languages"
-  />
+
+<td width="45%" align="center">
+
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="400px"/>
+
 </td>
 </tr>
 </table>
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">SYSTEM STATUS</h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-bouchta-71082a286/" target="blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" />
-  </a>
- <a href="mailto:bouchtamohamed01@gmail.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" height="50" width="50" />
-  </a>
-  <a href="https://discord.com/users/bouchtamohamed" target="blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Discord" height="50" width="50" />
-  </a>
+  Learning Rate: ACTIVE • Focus: HIGH • Distractions: FILTERED
 </p>
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">GitHub Metrics</h3>
+
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/>
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/>
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/>
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/>
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="50" height="50"/>
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=bouchta65&theme=dark&show_icons=true&count_private=true"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bouchta65&theme=github_dark"/>
 </p>
 
-
 ---
+
+<h3 align="center">Stack</h3>
+
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="45"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="45"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="45"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="45"/>
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" width="45"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="45"/>
+</p>
