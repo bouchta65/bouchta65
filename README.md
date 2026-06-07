@@ -1,45 +1,15 @@
-<!-- ================= LEVEL LOADER ================= -->
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="80px">
+</p>
 
-<div align="center">
+<h1 align="center">Bouchta Mohamed</h1>
 
-## ⚡ AI SYSTEM LOADING
+<h3 align="center">
+  AI & Data Science Student
+</h3>
 
-### 🧠 Neural Progress Level 11 / 100
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bouchta65&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-</div>
-
-<br/>
-
-<!-- LOADING BAR CONTAINER -->
-<div align="center">
-
-<div style="
-  width: 75%;
-  background: #0d0d0d;
-  border: 1px solid #00ffcc;
-  border-radius: 30px;
-  padding: 4px;
-  box-shadow: 0 0 10px #00ffcc33;
-">
-
-<div style="
-  width: 11%;
-  height: 18px;
-  border-radius: 30px;
-  background: linear-gradient(90deg, #00ffcc, #0077ff);
-  box-shadow: 0 0 15px #00ffcc;
-"></div>
-
-</div>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```txt
-LOADING STATUS: ██████████░░░░░░░░░░ 11%
-SYSTEM STATE  : ACTIVE LEARNING MODE
-AI CORE       : INITIALIZING
-DATA ENGINE    : SYNCING
+---
