@@ -1,45 +1,45 @@
-<!-- ================= LEVEL LOADER UI ================= -->
+<!-- ================= LEVEL LOADER ================= -->
 
 <div align="center">
 
-## ⚡ SYSTEM LOADING DASHBOARD
+## ⚡ AI SYSTEM LOADING
+
+### 🧠 Neural Progress Level 11 / 100
 
 </div>
 
 <br/>
 
+<!-- LOADING BAR CONTAINER -->
 <div align="center">
 
-### 🧠 AI CORE PROGRESSION
-
-<table>
-  <tr>
-    <td align="center"><b>LEVEL</b></td>
-    <td align="center"><b>STATUS</b></td>
-    <td align="center"><b>PROGRESS</b></td>
-  </tr>
-  <tr>
-    <td align="center"><h2>11 / 100</h2></td>
-    <td align="center">🟡 Learning Phase</td>
-    <td align="center">11%</td>
-  </tr>
-</table>
-
-<br/>
-
-### 📊 LOADING BAR
-
-<div style="width:80%; background:#111; border-radius:20px; padding:3px; border:1px solid #00ffcc;">
+<div style="
+  width: 75%;
+  background: #0d0d0d;
+  border: 1px solid #00ffcc;
+  border-radius: 30px;
+  padding: 4px;
+  box-shadow: 0 0 10px #00ffcc33;
+">
 
 <div style="
-  width:11%;
-  background:linear-gradient(90deg,#00ffcc,#0077ff);
-  height:18px;
-  border-radius:20px;
+  width: 11%;
+  height: 18px;
+  border-radius: 30px;
+  background: linear-gradient(90deg, #00ffcc, #0077ff);
+  box-shadow: 0 0 15px #00ffcc;
 "></div>
 
 </div>
 
+</div>
+
 <br/>
 
-### ⚙️ SYSTEM MODULES STATUS
+<div align="center">
+
+```txt
+LOADING STATUS: ██████████░░░░░░░░░░ 11%
+SYSTEM STATE  : ACTIVE LEARNING MODE
+AI CORE       : INITIALIZING
+DATA ENGINE    : SYNCING
