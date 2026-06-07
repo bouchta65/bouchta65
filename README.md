@@ -5,7 +5,7 @@
 <h1 align="center">Bouchta Mohamed</h1>
 
 <h3 align="center">
-  AI Engineer • Data Analyst • Systems Thinker
+  AI & Data Science Student
 </h3>
 
 <p align="center">
@@ -14,56 +14,8 @@
 
 ---
 
-<table align="center">
-<tr>
-<td width="55%" align="left">
+<!-- ================= LOADING SYSTEM ================= -->
 
-- Focus: Artificial Intelligence & Intelligent Systems  
-- Specialization: Machine Learning • Deep Learning • Neural Architectures • Generative AI  
-- Philosophy: Build systems that learn, adapt, and scale beyond intuition  
-- Currently exploring: advanced model design, optimization, and real-world AI deployment  
-- Contact: **bouchtamohamed01@gmail.com**  
-- LinkedIn: https://www.linkedin.com/in/mohamed-bouchta-71082a286/  
-- Signal: I prefer building over talking  
+<div align="center">
 
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="400px"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<h3 align="center">SYSTEM STATUS</h3>
-
-<p align="center">
-  Learning Rate: ACTIVE • Focus: HIGH • Distractions: FILTERED
-</p>
-
----
-
-<h3 align="center">GitHub Metrics</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bouchta65&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bouchta65&theme=github_dark" />
-</p>
----
-
-<h3 align="center">Stack</h3>
-
-<p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="45"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" width="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="45"/>
-</p>
+### ⚡ SYSTEM INITIALIZATION IN PROGRESS
