@@ -40,7 +40,7 @@ INFO_ROWS = [
     ("field", "Role", "AI/ML Developer"),
     ("field", "Desc", "The game changer"),
     ("field", "Education", "BTS, LP, YOUCODE AI"),
-    ("field", "Status", "Building - Deploying - Securing"),
+    ("field", "Status", "Building - Deploying - Ops"),
     ("field", "Tech.Stack", "Web Dev, Data, AI"),
     ("blank", "", ""),
     ("field", "AI.Code", "MLOps / LLMOps"),
@@ -326,6 +326,12 @@ def replace_profile_data(svg: str) -> str:
         svg = svg.replace(old, new)
     svg = svg.replace('cx="1122"', 'cx="1088"')
     svg = svg.replace('x="1132" y="24" class="scan-label"', 'x="1098" y="24" class="scan-label"')
+    svg = re.sub(
+        r'\n  <rect x="522" y="491\.0" width="9" height="16" class="cursor-blink" opacity="0">.*?</rect>',
+        "",
+        svg,
+        flags=re.DOTALL,
+    )
     return svg
 
 
@@ -406,7 +412,7 @@ def replace_system_info(svg: str) -> str:
     pattern = re.compile(
         r'(?<=<text x="524" y="24" class="panel-title">SYSTEM\.INFO</text>\n\n)'
         r".*?"
-        r'(?=\n\n  <rect x="522")',
+        r'(?=\n\n</g>\n\n<rect x="0" y="-70")',
         re.DOTALL,
     )
     match = pattern.search(svg)
