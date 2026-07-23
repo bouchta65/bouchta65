@@ -59,7 +59,7 @@ INFO_ROWS = [
     ("field", "Github", "bouchta65"),
     ("blank", "", ""),
     ("section", "- Profile Pulse", ""),
-    ("badge", "Profile views", "4,747"),
+    ("badge", "Profile views", "4,748"),
 ]
 PHOTO_X = 30
 PHOTO_Y = 78
